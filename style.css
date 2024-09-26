@@ -43,7 +43,7 @@ h1{
 .locat{
     color: #a3ff00;
     margin-bottom: 26px;
-    font-size: 14px;
+    font-size: 20px;
     /* text-align: center; */
     /* text-decoration: none; */
 }
@@ -71,5 +71,6 @@ h1{
 }
 
 .button:hover{
-    background-color: #96e910c5;
+    background-color: #97f106f1;
+    color: rgb(0, 0, 0);
 }
